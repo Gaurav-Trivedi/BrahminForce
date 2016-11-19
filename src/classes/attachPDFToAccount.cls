@@ -3,7 +3,6 @@
 	Notes:
 		- extension for the attachPDFToAccount.page Visualforce page which is accessible from a custom link on the Account detail page
 		- generates a PDF file and attaches it to the Account
-		gdjsgaghfdkaghfiahfiahgiuuiyuujjjjkhklhklhkhdkghs
 */
 public class attachPDFToAccount {
 	
